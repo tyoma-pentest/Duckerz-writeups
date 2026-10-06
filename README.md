@@ -17,3 +17,4 @@
 
 - GitHub: [@tyoma-pentest](https://github.com/tyoma-pentest)
 - Telegram: [t.me/leak674](https://t.me/leak674)
+- DUCKERZ: [DUCKERZ](https://duckerz.ru/profile/6905)
