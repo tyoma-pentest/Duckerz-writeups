@@ -6,13 +6,8 @@
 
 | № | Задача | Уязвимость | Статус |
 |:---:|:---|:---|:---:|
-| 1 | DocBoard | Sensitive Data Exposure | ✅ |
-| 2 | ... | ... | ⏳ |
-
-## Структура
-
-- `DocBoard/` — задача DocBoard
-- `Task-2/` — следующая задача
+| 1 | DocBoard | Sensitive Data Exposure |
+| 2 | NTF маркетплейс | SQL-Injection |
 
 ## О себе
 
