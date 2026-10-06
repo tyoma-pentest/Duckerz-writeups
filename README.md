@@ -6,8 +6,8 @@
 
 | № | Задача | Уязвимость | Статус |
 |:---:|:---|:---|:---:|
-| 1 | DocBoard | Sensitive Data Exposure |
-| 2 | NTF маркетплейс | SQL-Injection |
+| 1 | DocBoard | Sensitive Data Exposure | + |
+| 2 | NTF маркетплейс | SQL-Injection | + |
 
 ## О себе
 
